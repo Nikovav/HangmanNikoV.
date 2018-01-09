@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+    vertical-align: top;
+    background-color: peachpuff;
+}
+p{
+    text-align: center
+}
+button {
+    width: 75px;
+    color: black;
+    text-align: center;
+    right: 50px;
+
+}
+h2 {
+   font-size:20px;
+}
+#myId {
+    color: yellow;
+}
+
+.fontLarge{
+    font-size: 14px;
+}
+p.center {
+    text-align: right;
+    color: red;
+}
+h1, h2, p {
+    text-align: center;
+    text-weight: bold;
+}
+#reset {
+    text-align: center;
+}
